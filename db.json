@@ -1,5 +1,5 @@
 {
-  "Articles": {
+  "articles": {
     "favoriteArticles": [
       {
         "title": "Odeszła Hiroko nakamura",
@@ -37,6 +37,34 @@
         "title": "Poznaj Historię Konkursów Chopinowskich 1927-2010 w Google Arts & Culture",
         "imageUrl": "https://ocdn.eu/images/pulscms/NWQ7MDA_/145936643424c12dd403b991dd1fae04.jpg",
         "publishDate": "15.05.2019"
+      }
+    ]
+  },
+  "events": {
+    "data": [
+      {
+        "description": "Przesłuchania eliminacyjne",
+        "date": "13 kwietnia",
+        "time": "10:00 - 20:00",
+        "phase": "Eliminacje"
+      },
+      {
+        "description": "Przesłuchania eliminacyjne",
+        "date": "13 kwietnia",
+        "time": "10:00 - 20:00",
+        "phase": "Eliminacje"
+      },
+      {
+        "description": "Przesłuchania eliminacyjne",
+        "date": "13 kwietnia",
+        "time": "10:00 - 20:00",
+        "phase": "Eliminacje"
+      },
+      {
+        "description": "Przesłuchania eliminacyjne",
+        "date": "13 kwietnia",
+        "time": "10:00 - 20:00",
+        "phase": "Eliminacje"
       }
     ]
   }
