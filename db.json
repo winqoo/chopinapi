@@ -46,25 +46,29 @@
         "description": "Przesłuchania eliminacyjne",
         "date": "13 kwietnia",
         "time": "10:00 - 20:00",
-        "phase": "Eliminacje"
+        "phase": "Eliminacje",
+        "imageUrl": "https://ocdn.eu/images/pulscms/NWQ7MDA_/145936643424c12dd403b991dd1fae04.jpg"
       },
       {
         "description": "Przesłuchania eliminacyjne",
-        "date": "13 kwietnia",
+        "date": "14 kwietnia",
         "time": "10:00 - 20:00",
-        "phase": "Eliminacje"
+        "phase": "Eliminacje",
+        "imageUrl": "https://ocdn.eu/images/pulscms/NWQ7MDA_/145936643424c12dd403b991dd1fae04.jpg"
       },
       {
         "description": "Przesłuchania eliminacyjne",
-        "date": "13 kwietnia",
+        "date": "15 kwietnia",
         "time": "10:00 - 20:00",
-        "phase": "Eliminacje"
+        "phase": "Eliminacje",
+        "imageUrl": "https://ocdn.eu/images/pulscms/NWQ7MDA_/145936643424c12dd403b991dd1fae04.jpg"
       },
       {
         "description": "Przesłuchania eliminacyjne",
-        "date": "13 kwietnia",
+        "date": "16 kwietnia",
         "time": "10:00 - 20:00",
-        "phase": "Eliminacje"
+        "phase": "Eliminacje",
+        "imageUrl": "https://ocdn.eu/images/pulscms/NWQ7MDA_/145936643424c12dd403b991dd1fae04.jpg"
       }
     ]
   }
